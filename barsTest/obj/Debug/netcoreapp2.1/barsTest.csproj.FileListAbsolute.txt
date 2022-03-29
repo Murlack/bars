@@ -1,0 +1,11 @@
+C:\Users\Murlak\source\repos\barsTest\barsTest\bin\Debug\netcoreapp2.1\barsTest.deps.json
+C:\Users\Murlak\source\repos\barsTest\barsTest\bin\Debug\netcoreapp2.1\barsTest.runtimeconfig.json
+C:\Users\Murlak\source\repos\barsTest\barsTest\bin\Debug\netcoreapp2.1\barsTest.runtimeconfig.dev.json
+C:\Users\Murlak\source\repos\barsTest\barsTest\bin\Debug\netcoreapp2.1\barsTest.dll
+C:\Users\Murlak\source\repos\barsTest\barsTest\bin\Debug\netcoreapp2.1\barsTest.pdb
+C:\Users\Murlak\source\repos\barsTest\barsTest\obj\Debug\netcoreapp2.1\barsTest.csprojAssemblyReference.cache
+C:\Users\Murlak\source\repos\barsTest\barsTest\obj\Debug\netcoreapp2.1\barsTest.csproj.CoreCompileInputs.cache
+C:\Users\Murlak\source\repos\barsTest\barsTest\obj\Debug\netcoreapp2.1\barsTest.AssemblyInfoInputs.cache
+C:\Users\Murlak\source\repos\barsTest\barsTest\obj\Debug\netcoreapp2.1\barsTest.AssemblyInfo.cs
+C:\Users\Murlak\source\repos\barsTest\barsTest\obj\Debug\netcoreapp2.1\barsTest.dll
+C:\Users\Murlak\source\repos\barsTest\barsTest\obj\Debug\netcoreapp2.1\barsTest.pdb
